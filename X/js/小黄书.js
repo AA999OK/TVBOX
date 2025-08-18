@@ -19,12 +19,13 @@ var rule={
             double: true, // 推荐内容是否双层定位
             一级: '.video-list&&.video;a&&title;.img&&style;.tags&&Text;a&&href',//影片列表,影片标题,影片图片,影片描述,影片链接
             二级: {
-                "title": ".hero-title-item&&Text;.tag&&Text",//影片标题,影片类型
-                "img": ".img&&style",//影片图片
-                "desc": ".video-detail&&.item:eq(0)&&Text;.video-detail&&.item:eq(0)&&Text;.hero-title-item&&Text;.model-container&&Text;.video-detail&&.item:eq(-1)&&Text",//影片描述（未知/未知/地区/演员/导演）
+                "title": ".video-detail&&.item&&Text;.tag&&Text",//影片标题,影片类型
+                "img": ".screenshot-container&&img&&src",//影片图片
+                "desc": ".video-detail&&.item&&Text;.video-detail&&.item&&Text;.hero-title-item&&Text;.model-container&&Text;.video-detail&&.item:eq(-1)&&Text",//影片描述（未知/未知/地区/演员/导演）
                 "content": ".hero-title-item&&Text",//影片简介
                 "tabs": ".stui-pannel__head&&h3",//播放线路列表
                 "lists": ".stui-content__playlist&&li"//播放剧集列表
             },
-            搜索: '.video-list&&.video;a&&title;.img&&style;.tags&&Text;a&&href',//影片列表,影片标题,影片图片,影片描述,影片链接
+            搜索: '.video-list&&.video;a&&title;.screenshot-container&&img&&src;.tags&&Text;a&&href',//影片列表,影片标题,影片图片,影片描述,影片链接
         }
+
