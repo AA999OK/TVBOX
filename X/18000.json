@@ -4,24 +4,24 @@
 "sites":[
 //置顶信息
 {
-"key": "小黄书001",
-"name": "🔞小黄书(XYQH)",
+"key":"小黄书001",
+"name":"🔞小黄书(XYQH)",
 //资源api接口类型
-"type": 3,
+"type":3,
 //资源api接口标准信息
-"api": "csp_XYQHiker",
+"api":"csp_XYQHiker",
 //是否开启全局搜索
-"searchable": 1,
+"searchable":1,
 //是否开启快速搜索
-"quickSearch": 1,
+"quickSearch":1,
 //是否开启筛选过滤
-"filterable": 1,
+"filterable":1,
 //资源api接口jar信息
-"jar": "./jar/xyq_dz.jar",
+"jar":"./jar/xyq_dz.jar",
 //资源api接口规则信息
-"ext": "./XYQHiker/小黄书.json"
+"ext":"./XYQHiker/小黄书.json"
 },
-{"key": "小黄书002","name": "🔞小黄书(js)","type": 3,"api": "./lib/cloud.min.js","ext": "./js/小黄书.js"}
+{"key": "小黄书002","name": "🔞小黄书(js)","type": 3,"api": "./lib/cloud.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/小黄书.js"}
 ],
 "parses": [
     {
@@ -840,6 +840,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
