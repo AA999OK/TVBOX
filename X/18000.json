@@ -5,7 +5,7 @@
 //置顶信息
 {
 "key":"小黄书001",
-"name":"🔞小黄书(XYQH)",
+"name":"🔞小黄书(XYQH)🚫",
 //资源api接口类型
 "type":3,
 //资源api接口标准信息
@@ -15,24 +15,24 @@
 //是否开启快速搜索
 "quickSearch":1,
 //是否开启筛选过滤
-"filterable":1,
+"filterable":0,
 //资源api接口jar信息
 "jar":"./jar/xyq.jar",
 //资源api接口规则信息
 "ext":"./XYQHiker/小黄书.json"
 },
-{"key": "小黄书002","name": "🔞小黄书(js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/小黄书.js"},
-{"key": "番号资源[密](drpy_t3)","name": "🔞番号资源(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/番号资源[密].js"},
-{"key": "一点视频[密](drpy_t3)","name": "🔞一点视频(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/一点视频[密].js"},
-{"key": "黑料不打烊[密1](drpy_t3)","name": "🔞黑料不打烊1(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/黑料不打烊[密1].js"},
-{"key": "黑料不打烊[密2](drpy_t3)","name": "🔞黑料不打烊2(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/黑料不打烊[密2].js"},
-{"key": "UAA[密](drpy_t3)","name": "🔞UAA影(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/UAA[密].js"},
-{"key": "UAA[听](drpy_t3)","name": "🔞UAA听(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/UAA[听].js"},
-{"key": "地瓜视频[密](drpy_t3)","name": "🔞地瓜视频(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/地瓜视频[密].js"},
+{"key": "小黄书002","name": "🔞小黄书(js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/小黄书.js"},
+{"key": "番号资源[密](drpy_t3)","name": "🔞番号资源(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/番号资源[密].js"},
+{"key": "一点视频[密](drpy_t3)","name": "🔞一点视频(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/一点视频[密].js"},
+{"key": "黑料不打烊[密1](drpy_t3)","name": "🔞黑料不打烊1(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/黑料不打烊[密1].js"},
+{"key": "黑料不打烊[密2](drpy_t3)","name": "🔞黑料不打烊2(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/黑料不打烊[密2].js"},
+{"key": "UAA[密](drpy_t3)","name": "🔞UAA影(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/UAA[密].js"},
+{"key": "UAA[听](drpy_t3)","name": "🔞UAA听(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/UAA[听].js"},
+{"key": "地瓜视频[密](drpy_t3)","name": "🔞地瓜视频(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/地瓜视频[密].js"},
 //资源站信息
-//待修复{"key": "魔都资源站","name": "🌈魔都资源","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-//待修复{"key": "极速资源站","name": "🌈极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"filterable": 1},
-{"key": "搜AV资源站","name": "搜AV资源🌈","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "魔都资源站","name": "🌈魔都资源❌","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "极速资源站","name": "🌈极速资源❌","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"filterable": 0},
+{"key": "搜AV资源站","name": "🌈搜AV资源🚫","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0}
 ],
 "parses": [
     {
@@ -851,6 +851,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
