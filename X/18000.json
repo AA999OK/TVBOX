@@ -1,4 +1,4 @@
-//type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js（js+json）🔞🌈🧲🚫✈️❌
+//type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js(js+json)，type＝4api为资源站php🔞🌈🧲🚫✈️❌
 {
 "spider":"./jar/xyq_wanganni.jar",
 "sites":[
@@ -21,8 +21,10 @@
 //资源api接口规则信息
 "ext":"./XYQHiker/小黄书.json"
 },
-{"key": "小黄书002","name": "🔞小黄书(js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/小黄书.js"}
+{"key": "小黄书002","name": "🔞小黄书(js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/小黄书.js"},
+{"key": "番号资源[密](drpy_t3)","name": "番号资源(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/番号资源[密].js"},
 //资源站信息
+{"key": "魔都资源站","name": "🌈魔都资源","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1}},
 ],
 "parses": [
     {
@@ -841,3 +843,4 @@
     "google-analytics.com"
   ]
 }
+
