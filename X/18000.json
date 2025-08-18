@@ -22,6 +22,7 @@
 "ext":"./XYQHiker/小黄书.json"
 },
 {"key": "小黄书002","name": "🔞小黄书(js)","type": 3,"api": "./lib/cloud.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/小黄书.js"}
+//资源站信息
 ],
 "parses": [
     {
@@ -840,6 +841,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
