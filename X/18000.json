@@ -1,4 +1,4 @@
-//type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js(js+json)，type＝4api为资源站php🔞🌈🧲🚫✈️❌
+//type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js(js+json)，type＝4api为资源站php🔞🧲✈️✔️❌🛠️♻️⛔
 {
 "spider":"./jar/xyq_wanganni.jar",
 "sites":[
@@ -22,6 +22,20 @@
 "ext":"./XYQHiker/小黄书.json"
 },
 {"key": "小黄书002","name": "🔞小黄书(js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/小黄书.js"},
+{
+      "key": "csp_XYQHiker_missav",
+      "name": "🔞MissAV(XYQHiker)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/missav.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
+    },
 {"key": "番号资源[密](drpy_t3)","name": "🔞番号资源(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/番号资源[密].js"},
 {"key": "一点视频[密](drpy_t3)","name": "🔞一点视频(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/一点视频[密].js"},
 {"key": "黑料不打烊[密1](drpy_t3)","name": "🔞黑料不打烊1(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/黑料不打烊[密1].js"},
@@ -855,6 +869,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
