@@ -1,11 +1,11 @@
-//type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js(js+json)，type＝4api为资源站php🔞🧲✈️✔️❌🛠️♻️⛔
-{🔞✅🛠️🈲🔥🇨🇳
+//type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js(js+json)，type＝4api为资源站php🔞🧲✈️✔️❌🛠️♻️🚫⛔❤️
+{
 "spider":"./jar/xyq_wanganni.jar",
 "sites":[
-//置顶信息
+//🔞置顶信息🔞
 {
 "key":"小黄书001",
-"name":"🔞小黄书(XYQH)🚫",
+"name":"小黄书(XYQH)🛠️",
 //资源api接口类型
 "type":3,
 //资源api接口标准信息
@@ -21,36 +21,23 @@
 //资源api接口规则信息
 "ext":"./XYQHiker/小黄书.json"
 },
-{"key": "小黄书002","name": "🔞小黄书(js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/小黄书.js"},
-{
-      "key": "csp_XYQHiker_missav",
-      "name": "🔞MissAV(XYQHiker)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/missav.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.6
-      }
-    },
-{"key": "番号资源[密](drpy_t3)","name": "🔞番号资源(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/番号资源[密].js"},
-{"key": "一点视频[密](drpy_t3)","name": "🔞一点视频(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/一点视频[密].js"},
-{"key": "黑料不打烊[密1](drpy_t3)","name": "🔞黑料不打烊1(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/黑料不打烊[密1].js"},
-{"key": "黑料不打烊[密2](drpy_t3)","name": "🔞黑料不打烊2(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/黑料不打烊[密2].js"},
-{"key": "UAA[密](drpy_t3)","name": "🔞UAA影(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/UAA[密].js"},
-{"key": "UAA[听](drpy_t3)","name": "🔞UAA听(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/UAA[听].js"},
-{"key": "地瓜视频[密](drpy_t3)","name": "🔞地瓜视频(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/地瓜视频[密].js"},
-{"key": "采集之王[密1](drpy_t3)","name": "采王道长(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/采集之王[密].js?type=url&params=../json/采集静态[密1].json$1"},
-{"key": "采集之王[密2](drpy_t3)","name": "🔞采王18(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/采集之王[密].js?type=url&params=../json/采集静态[密2].json$1"},
-{"key": "采集之王[密3](drpy_t3)","name": "🔞采王成人(drpy_js)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/采集之王[密].js?type=url&params=../json/采集静态[密3].json"},
-{"key": "绿色仓库[密](drpy_t3)","name": "🔞绿色仓库(drpy_js)🚫","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/绿色仓库[密].js"},
-//资源站信息
-{"key": "魔都资源站","name": "🌈魔都资源❌","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "极速资源站","name": "🌈极速资源❌","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"filterable": 0},
-{"key": "搜AV资源站","name": "🌈搜AV资源🚫","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0}
+{"key": "小黄书002","name": "小黄书(js)🛠️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/小黄书.js"},
+{"key": "missav","name": "❤️MissAV(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/missav.json"},
+{"key": "番号资源[密](drpy_t3)","name": "番号资源(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/番号资源[密].js"},
+{"key": "一点视频[密](drpy_t3)","name": "一点视频(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/一点视频[密].js"},
+{"key": "黑料不打烊[密1](drpy_t3)","name": "黑料不打烊1(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/黑料不打烊[密1].js"},
+{"key": "黑料不打烊[密2](drpy_t3)","name": "黑料不打烊2(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/黑料不打烊[密2].js"},
+{"key": "UAA[密](drpy_t3)","name": "UAA影(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/UAA[密].js"},
+{"key": "UAA[听](drpy_t3)","name": "UAA听(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/UAA[听].js"},
+{"key": "地瓜视频[密](drpy_t3)","name": "地瓜视频(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/地瓜视频[密].js"},
+{"key": "采集之王[密1](drpy_t3)","name": "采王道长(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/采集之王[密].js?type=url&params=../json/采集静态[密1].json$1"},
+{"key": "采集之王[密2](drpy_t3)","name": "采王18(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/采集之王[密].js?type=url&params=../json/采集静态[密2].json$1"},
+{"key": "采集之王[密3](drpy_t3)","name": "采王成人(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/采集之王[密].js?type=url&params=../json/采集静态[密3].json"},
+{"key": "绿色仓库[密](drpy_t3)","name": "绿色仓库(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/绿色仓库[密].js"},
+//♻️资源站信息♻️
+{"key": "魔都资源站","name": "♻️魔都资源🚫","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "极速资源站","name": "♻️极速资源🚫","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"filterable": 0},
+{"key": "搜AV资源站","name": "♻️搜AV资源⛔","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0}
 ],
 "parses": [
     {
@@ -869,6 +856,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
