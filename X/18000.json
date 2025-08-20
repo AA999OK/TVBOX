@@ -21,42 +21,9 @@
 //资源api接口规则信息
 "ext":"./XYQHiker/小黄书.json"
 },
-{
-            "key": "麻豆映画",
-            "name": "麻豆映画",
-            "type": 3,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable": 0,
-            "api": "csp_XBPQ",
-            "jar": ""jar": "./jar/xyqxbpq_jie20091116.jar",
-            "ext": {
-                "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-                "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "分类": "日本视频$1#麻豆视频$2#國產視頻$3",
-                "剧情": "大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||萝莉&大奶&交内射&吞精&勾搭&骚穴&车震&约炮&骚货&母狗&捆绑&调教",
-                "直接播放": "1"
-            }
-        },
+{"key": "麻豆映画","name": "麻豆映画","type": 3,"searchable":1,"quickSearch":1,"filterable": 0,"api": "csp_XBPQ","jar": "./jar/xyqxbpq_jie20091116.jar","ext": {"分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "日本视频$1#麻豆视频$2#國產視頻$3","剧情": "大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||萝莉&大奶&交内射&吞精&勾搭&骚穴&车震&约炮&骚货&母狗&捆绑&调教","直接播放": "1"}},
 {"key": "小黄书002","name": "小黄书(js)🛠️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/小黄书.js"},
 {"key": "missav","name": "❤️MissAV(XYQH)✔️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/missav.json"},
-{
-            "key": "麻豆映画",
-            "name": "麻豆映画",
-            "type": 3,
-            "searchable":1,
-            "changeable": 1,
-            "quickSearch":1,
-            "filterable": 0,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-                "搜索url": "http://gcmd.cc/index.php/vod/search/page/{SearchPg}/wd/{wd}.html",
-                "分类": "日本视频$1#麻豆视频$2#國產視頻$3",
-                "剧情": "大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||萝莉&大奶&交内射&吞精&勾搭&骚穴&车震&约炮&骚货&母狗&捆绑&调教",
-            "直接播放": 1
-            }
-        },
 {"key": "xHamster","name": "❤️xHamster(XYQH)✔️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/xHamster.json"},
 {"key": "番号资源[密](drpy_t3)","name": "番号资源(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/番号资源[密].js"},
 {"key": "一点视频[密](drpy_t3)","name": "一点视频(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/一点视频[密].js"},
@@ -891,6 +858,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
