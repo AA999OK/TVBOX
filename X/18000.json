@@ -22,15 +22,14 @@
 "ext":"./XYQHiker/小黄书.json"
 },
 {
-            "key": "麻豆",
-            "name": "🇹🇼【老王成人專區】🇹🇼",
+            "key": "麻豆映画",
+            "name": "麻豆映画",
             "type": 3,
-            "changeable": 1,
-            "filterable": 1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable": 0,
             "api": "csp_XBPQ",
-            "style": {
-                "ratio": 1.7
-            },
+            "jar": ""jar": "./jar/xyqxbpq_jie20091116.jar",
             "ext": {
                 "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
                 "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
@@ -892,6 +891,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
