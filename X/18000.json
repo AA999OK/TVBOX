@@ -28,8 +28,9 @@
             "name": "麻豆映画",
             "type": 3,
             "searchable":1,
-"quickSearch":1,
-            "filterable": 1,
+            "changeable": 1,
+            "quickSearch":1,
+            "filterable": 0,
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
@@ -873,6 +874,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
