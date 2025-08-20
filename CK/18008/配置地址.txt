@@ -1,0 +1,1 @@
+clan://localhost/tvbox/a18/a18.json
