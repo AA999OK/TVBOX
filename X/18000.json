@@ -1,6 +1,6 @@
 //type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js(js+json)，type＝4api为资源站php🔞🧲✈️✔️❌🛠️♻️🚫⛔❤️
 {
-"spider":"./jar/xyq_wanganni.jar",
+"spider":"./jar/xyqxbpq_jie20091116.jar",
 "sites":[
 //🔞置顶信息🔞
 {
@@ -17,12 +17,12 @@
 //是否开启筛选过滤
 "filterable":0,
 //资源api接口jar信息
-"jar":"./jar/xyq.jar",
+//"jar":"./jar/xyq.jar",
 //资源api接口规则信息
 "ext":"./XYQHiker/小黄书.json"
 },
 {"key": "小黄书002","name": "小黄书(js)🛠️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/小黄书.js"},
-{"key": "麻豆映画","name": "❤️麻豆映画✔️","type": 3,"searchable":1,"quickSearch":1,"filterable": 0,"api": "csp_XBPQ","jar": "./jar/xyqxbpq_jie20091116.jar","ext": {"分类url": "http://gcmd.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "日本视频$1#麻豆视频$2#国产视频$3#中文视频$4"}},
+{"key": "麻豆映画","name": "❤️麻豆映画✔️","type": 3,"searchable":1,"quickSearch":1,"filterable": 0,"api": "csp_XBPQ",//"jar": "./jar/xyqxbpq_jie20091116.jar","ext": {"分类url": "http://gcmd.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "日本视频$1#麻豆视频$2#国产视频$3#中文视频$4"}},
 {"key": "missav","name": "❤️MissAV(XYQH)✔️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/missav.json"},
 {"key": "xHamster","name": "❤️xHamster(XYQH)✔️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/xHamster.json"},
 {"key": "番号资源[密](drpy_t3)","name": "番号资源(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/番号资源[密].js"},
@@ -858,6 +858,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
