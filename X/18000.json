@@ -50,7 +50,7 @@
 {"key": "lebo","name": "乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "番号","name": "番号","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "大地","name": "大地","type": 0,"api": "https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "富二代","name": "富二代","type": 0,"api": "http://f2dcj6.com/sapi?ac=videolist","quickSearch": 1,"searchable": 1,"filterable": 1},    
+{"key": "富二代","name": "富二代","type": 0,"api": "http://f2dcj6.com/sapi?ac=videolist","quickSearch": 1,"searchable": 1,"filterable": 1}
 ],
 "parses": [
     {
@@ -869,6 +869,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
