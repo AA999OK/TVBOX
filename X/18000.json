@@ -37,12 +37,12 @@
 {"key": "采集之王[密3](drpy_t3)","name": "采王成人(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密3].json"},
 {"key": "绿色仓库[密](drpy_t3)","name": "绿色仓库(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/绿色仓库[密].js"},
 //♻️资源站信息♻️
-{"key": "美少女资源站","name": "美少女资源","type": 0,"api": "https://www.msnii.com/api/xml.php","playUrl": "https://jx.mmkv.cn/m3u8.php?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "美少女资源站","name": "美少女资源","type": 0,"api": "https://www.msnii.com/api/xml.php","jiexiUrl": "https://jx.mmkv.cn/m3u8.php?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "魔都资源站","name": "♻️魔都资源🚫","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "极速资源站","name": "♻️极速资源🚫","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"filterable": 0},
 {"key": "搜AV资源站","name": "♻️搜AV资源⛔","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"博天堂资源站","name":"♻️博天堂资源❌","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable": 0},
-{"key": "美少女","name": "美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "美少女","name": "美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "淫水机","name": "淫水机","type": 0,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "香奶儿","name": "香奶儿","type": 0,"api": "https://www.gdlsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "白嫖","name": "白嫖","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},    
@@ -869,6 +869,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
