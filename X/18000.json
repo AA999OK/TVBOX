@@ -41,7 +41,7 @@
 {"key": "魔都资源站","name": "♻️魔都资源🚫","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "极速资源站","name": "♻️极速资源🚫","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"filterable": 0},
 {"key": "搜AV资源站","name": "♻️搜AV资源⛔","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"*美少女资源","name":"美少女001","type":0,"api":"https://www.msnii.com/api/xml.php","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/jar/pg.jar","searchable":1,"quickSearch":1},
+{"key":"*美少女资源","name":"美少女001","type":0,"api":"https://www.msnii.com/api/xml.php","jar":"./jar/pg.jar","searchable":1,"quickSearch":1},
 {"key":"博天堂资源站","name":"♻️博天堂资源❌","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "美少女","name": "美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "淫水机","name": "淫水机","type": 0,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -870,6 +870,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
