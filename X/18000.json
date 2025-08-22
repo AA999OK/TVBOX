@@ -29,8 +29,8 @@
 {"key": "www.1av.fun","name": "🔞香蕉视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/香蕉视频.js"},
 {"key": "黑料不打烊[密1]","name": "🔞黑料不打烊1(密js)🆘","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密1].js"},
 {"key": "黑料不打烊[密2]","name": "🔞黑料不打烊2(密js)💡","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密2].js"},
-{"key": "UAA[密]","name": "🔞UAA影(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[密].js"},
-{"key": "UAA[听]","name": "🔞UAA听(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[听].js"},
+{"key": "UAA[密]","name": "🔞UAA影(密js)🅿️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[密].js"},
+{"key": "UAA[听]","name": "🔞UAA听(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[听].js"},
 {"key": "www.112v.me","name": "🔞地瓜视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/地瓜视频.js"},
 {"key": "采集之王[密1]","name": "🔞采王道长(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密1].json$1"},
 {"key": "采集之王[密2]","name": "🔞采王18(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密2].json$1"},
@@ -871,6 +871,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
