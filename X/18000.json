@@ -25,7 +25,7 @@
 {"key": "麻豆映画","name": "❤️麻豆映画(XBPQ)✔️","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext": {"分类url": "http://gcmd.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "日本视频$1#麻豆视频$2#国产视频$3#中文视频$4"}},
 {"key": "missav","name": "❤️MissAV(XYQH)✔️","type": 3,"api": "csp_XBPQ","api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/missav.json"},
 {"key": "xHamster","name": "❤️xHamster(XYQH)✔️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/xHamster.json"},
-{"key": "番号资源站[密](drpy_t3)","name": "🔞番号资源(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/番号资源[密].js"},
+{"key": "番号资源站[密](drpy_t3)","name": "♻️番号资源(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/番号资源[密].js"},
 {"key": "一点视频[密](drpy_t3)","name": "🔞一点视频(drpy_js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/一点视频[密].js"},
 {"key": "黑料不打烊[密1](drpy_t3)","name": "🔞黑料不打烊1(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密1].js"},
 {"key": "黑料不打烊[密2](drpy_t3)","name": "🔞黑料不打烊2(drpy_js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密2].js"},
@@ -44,7 +44,9 @@
 {"key": "美少女资源站","name": "♻️美少女资源🚫","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "淫水机资源站","name": "♻️淫水机资源🚫","type": 0,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "香奶儿资源站","name": "♻️香奶儿资源🚫","type": 0,"api": "https://www.gdlsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "白嫖资源站","name": "♻️白嫖资源🚫","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},    
+{"key": "白嫖资源站","name": "♻️白嫖资源🚫","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "小湿妹资源站","name": "♻️小湿妹资源🚫","type": 0,"api": "https://www.afasu.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "黄AV资源站","name": "♻️黄AV资源🚫","type": 0,"api": "https://www.pgxdy.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "乐播资源站","name": "♻️乐播资源✔️","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "番号资源站","name": "♻️番号资源✔️","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "大地资源站","name": "♻️大地资源✔️","type": 0,"api": "https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch": 1,"searchable": 1,"filterable": 0},
@@ -866,6 +868,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
