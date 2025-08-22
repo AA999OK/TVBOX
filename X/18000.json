@@ -32,14 +32,14 @@
 {"key": "UAA[密]","name": "🔞UAA影(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[密].js"},
 {"key": "UAA[听]","name": "🔞UAA听(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[听].js"},
 {"key": "www.112v.me","name": "🔞地瓜视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/地瓜视频.js"},
-{"key": "采集之王[密1]","name": "🔞采王道长(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密1].json$1"},
+{"key": "采集之王[密1]","name": "🔞采王道长(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密1].json$1"},
 {"key": "采集之王[密2]","name": "🔞采王18(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密2].json$1"},
-{"key": "采集之王[密3]","name": "🔞采王成人(密js)✔️","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密3].json"},
+{"key": "采集之王[密3]","name": "🔞采王成人(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集静态[密3].json"},
 {"key": "绿色仓库[密]","name": "🔞绿色仓库(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/绿色仓库[密].js"},
 //♻️资源站信息♻️
 {"key": "魔都资源站","name": "♻️魔都资源🅿️","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "极速资源站","name": "♻️极速资源🚫","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"changeable": 1,"filterable": 0},
-{"key": "搜AV资源站","name": "♻️搜AV资源⛔","type": 0,"api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "极速资源站","name": "♻️极速资源❎","type": 0,"api": "https://jszyapi.com/api.php/provide/vod/at/xml","searchable": 1,"changeable": 1,"filterable": 0},
+{"key": "搜AV资源站","name": "♻️搜AV资源🅿️","type": 0,"api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "博天堂资源站","name": "♻️博天堂资源⚠️","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "久草资源站","name": "♻️久草资源⚠️","type":0,"api":"http://ssyydy.com/sapi","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "字幕资源站","name": "♻️字幕资源⚠️","type":0,"api":"http://zcyydy.com/sapi","searchable":1,"quickSearch":1,"filterable": 0},
@@ -871,6 +871,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
