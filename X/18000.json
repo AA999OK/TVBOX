@@ -1,5 +1,5 @@
 //type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js(js+json)，type＝4api为资源站php
-//🔞18禁❤️收藏♻️资源🧲磁力✈️机场✅成功❎失败🅿️PAGE💡图片🆘SEARCH⚠️关闭▶️PLAY⏹️STOP♾️开发🛠️修复
+//🔞18禁❤️收藏♻️资源🧲磁力✈️机场✅成功❎失败🅿️PAGE💡分类图片🆘SEARCH⚠️关闭▶️PLAY⏹️STOP♾️开发🛠️修复
 {
 "spider":"./jar/xyqxbpq_jie20091116.jar",
 "sites":[
@@ -27,9 +27,8 @@
 {"key": "missav","name": "❤️MissAV(XYQH)✅","type": 3,"api": "csp_XBPQ","api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/missav.json"},
 {"key": "xHamster","name": "❤️xHamster(XYQH)✅","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/xHamster.json"},
 {"key": "www.1av.fun","name": "🔞香蕉视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/香蕉视频.js"},
-{"key": "黑料不打烊[密]","name": "🔞黑料不打烊(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密].js"},
-{"key": "黑料不打烊[密1]","name": "🔞黑料不打烊1(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密1].js"},
-{"key": "黑料不打烊[密2]","name": "🔞黑料不打烊2(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密2].js"},
+{"key": "黑料不打烊[密1]","name": "🔞黑料不打烊1(密js)🆘","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密1].js"},
+{"key": "黑料不打烊[密2]","name": "🔞黑料不打烊2(密js)💡","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密2].js"},
 {"key": "UAA[密]","name": "🔞UAA影(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[密].js"},
 {"key": "UAA[听]","name": "🔞UAA听(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/UAA[听].js"},
 {"key": "www.112v.me","name": "🔞地瓜视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/地瓜视频.js"},
@@ -39,8 +38,8 @@
 {"key": "绿色仓库[密]","name": "🔞绿色仓库(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/绿色仓库[密].js"},
 //♻️资源站信息♻️
 {"key": "魔都资源站","name": "♻️魔都资源🅿️","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "极速资源站","name": "♻️极速资源🚫","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"filterable": 0},
-{"key": "搜AV资源站","name": "♻️搜AV资源⛔","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "极速资源站","name": "♻️极速资源🚫","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"changeable": 1,"filterable": 0},
+{"key": "搜AV资源站","name": "♻️搜AV资源⛔","type": 0,"api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "博天堂资源站","name": "♻️博天堂资源⚠️","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "久草资源站","name": "♻️久草资源⚠️","type":0,"api":"http://ssyydy.com/sapi","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "字幕资源站","name": "♻️字幕资源⚠️","type":0,"api":"http://zcyydy.com/sapi","searchable":1,"quickSearch":1,"filterable": 0},
@@ -872,6 +871,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
