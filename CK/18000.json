@@ -26,9 +26,9 @@
 {"key": "麻豆映画","name": "❤️麻豆映画(XBPQ)✅","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext": {"分类url": "http://gcmd.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "日本视频$1#麻豆视频$2#国产视频$3#中文视频$4"}},
 {"key": "missav","name": "❤️MissAV(XYQH)✅","type": 3,"api": "csp_XBPQ","api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/missav.json"},
 {"key": "xHamster","name": "❤️xHamster(XYQH)✅","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQHiker/xHamster.json"},
-{"key": "www.1av.fun","name": "🔞香蕉视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/香蕉视频.js"},
 {"key": "黑料不打烊[密1]","name": "🔞黑料不打烊1(密js)🆘","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密1].js"},
 {"key": "黑料不打烊[密2]","name": "🔞黑料不打烊2(密js)💡","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/黑料不打烊[密2].js"},
+{"key": "www.1av.fun","name": "🔞香蕉视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/香蕉视频.js"},
 {"key": "www.112v.me","name": "🔞地瓜视频(js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/地瓜视频.js"},
 {"key": "绿色仓库[密]","name": "🔞绿色仓库(密js)⛔","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/绿色仓库[密].js"},
 //♻️资源站信息♻️
@@ -872,6 +872,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
