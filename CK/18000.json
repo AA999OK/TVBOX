@@ -35,25 +35,25 @@
 {"key": "采集之王[密1]","name": "♻️采王普通(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集普通静态.json"},
 {"key": "采集之王[密2]","name": "♻️采王测试(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集测试静态.json"},
 {"key": "采集之王[密3]","name": "♻️采王成人(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/采集之王[密].js?type=url&params=../json/采集成人静态.json"},
-{"key": "淫水机资源站","name": "♻️淫水机资源✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/淫水机资源站.js"},
 {"key": "有爱爱[影]","name": "♻️有爱爱[影](js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/有爱爱[影].js"},
 {"key": "有爱爱[听]","name": "♻️有爱爱[听](js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/有爱爱[听].js"},
-{"key": "魔都资源站","name": "♻️魔都资源🅿️","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "极速资源站","name": "♻️极速资源❎","type": 0,"api": "https://jszyapi.com/api.php/provide/vod/at/xml","searchable": 1,"changeable": 1,"filterable": 0},
-{"key": "搜AV资源站","name": "♻️搜AV资源🅿️","type": 0,"api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "博天堂资源站","name": "♻️博天堂资源⚠️","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "久草资源站","name": "♻️久草资源⚠️","type":0,"api":"http://ssyydy.com/sapi","searchable":1,"quickSearch":1,"filterable": 0},
 {"key": "字幕资源站","name": "♻️字幕资源⚠️","type":0,"api":"http://zcyydy.com/sapi","searchable":1,"quickSearch":1,"filterable": 0},
+{"key": "番号资源站[密]","name": "♻️番号资源(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/番号资源[密].js"},
+//{"key": "番号资源站","name": "♻️番号资源🅿️","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "极速资源站","name": "♻️极速资源❎","type": 0,"api": "https://jszyapi.com/api.php/provide/vod/at/xml","searchable": 1,"changeable": 1,"filterable": 0},
+{"key": "魔都资源站","name": "♻️魔都资源🅿️","type": 0,"api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "乐播资源站","name": "♻️乐播资源🅿️","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "大地资源站","name": "♻️大地资源🅿️","type": 0,"api": "https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch": 1,"searchable": 1,"filterable": 0},
+{"key": "搜AV资源站","name": "♻️搜AV资源🅿️","type": 0,"api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "美少女资源站","name": "♻️美少女资源❎","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "淫水机资源站","name": "♻️淫水机资源✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy_js/淫水机资源站.js"},
 //{"key": "淫水机资源站","name": "♻️淫水机资源❎","type": 0,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "香奶儿资源站","name": "♻️香奶儿资源❎","type": 0,"api": "https://www.gdlsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "白嫖资源站","name": "♻️白嫖资源❎","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "小湿妹资源站","name": "♻️小湿妹资源❎","type": 0,"api": "https://www.afasu.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "黄AV资源站","name": "♻️黄AV资源❎","type": 0,"api": "https://www.pgxdy.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "乐播资源站","name": "♻️乐播资源🅿️","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "番号资源站[密]","name": "♻️番号资源(密js)✅","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./drpy_js/番号资源[密].js"},
-//{"key": "番号资源站","name": "♻️番号资源🅿️","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "大地资源站","name": "♻️大地资源🅿️","type": 0,"api": "https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch": 1,"searchable": 1,"filterable": 0},
 ],
 "parses": [
     {
@@ -872,6 +872,7 @@
     "google-analytics.com"
   ]
 }
+
 
 
 
