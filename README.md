@@ -19,4 +19,28 @@ XYQHiker源（.json）--首页 https://www.baidu.com/ 分类链接 （分类链�
 xml官源--打开网页只有影视分类（电影/电视剧等等）
 
 
+/api/xml.php
+
+
+/inc/api.php
+
+
+/api.php/provide/vod/
+
+
+/api.php/provide/vod/at/xml/
+
+
 json官源--打开网页只有json影视代码
+
+
+/api/json.php
+
+
+/inc/apijson_vod.php
+
+
+/api.php/provide/vod/
+
+
+/api.php/provide/vod/at/json/
