@@ -44,3 +44,15 @@ json官源--打开网页只有json影视代码
 
 
 /api.php/provide/vod/at/json/
+
+
+json分类搜索详情
+
+
+/api.php/provide/vod/?ac=detail&pg=fypage&t=fyclass
+
+
+/api.php/provide/vod/?ac=detail&pg=fypage&wd=**
+
+
+/api.php/provide/vod/?ac=detail&ids=fyid
