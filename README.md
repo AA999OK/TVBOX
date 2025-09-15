@@ -31,6 +31,9 @@ xml官源--打开网页只有影视分类（电影/电视剧等等）
 /api.php/provide/vod/at/xml/
 
 
+/api.php/seaxml/vod/at/xml
+
+
 json官源--打开网页只有json影视代码
 
 
